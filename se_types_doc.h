@@ -1,4 +1,4 @@
-/** @defgroup se_types 2030.5 Types */
+/** @defgroup se_types IEEE 2030.5 Types */
 
 /** @defgroup se_typedefs Typedefs 
     @ingroup se_types */
